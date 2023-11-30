@@ -1,4 +1,16 @@
 # ExpressJS_CRUD
 
-## Run Express JS
-**nodemon app.js**
+# Getting Started with Create Express
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `node app.js or nodemon app.js`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
