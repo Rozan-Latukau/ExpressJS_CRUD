@@ -1,6 +1,6 @@
 # ExpressJS_CRUD
 
-# Getting Started with Create Express
+# Getting Started with Create Express JS
 
 ## Available Scripts
 
